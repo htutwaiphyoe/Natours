@@ -1,3 +1,13 @@
-## Natours
+# Natours - Landing Page for Natours Travel Agency
 
-This is a project from JONAS Course
+Credit to **Jonas Schmedtmann**
+
+## Technologies
+
+- HTML
+- CSS
+- SASS
+
+## Features
+
+- CSS3
